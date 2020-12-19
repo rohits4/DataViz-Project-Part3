@@ -1,0 +1,14 @@
+ipython == 7.18.1
+ipython-genutils == 0.2.0
+pandas == 1.1.1
+numpy == 1.19.1
+geopandas == 0.6.3
+pycountry == 20.7.3
+plotly == 4.9.0
+ipydatawidgets == 4.0.1
+ipykernel == 5.2.1
+ipyleaflet == 0.13.3
+ipyvolume == 0.6.0a6
+ipywebrtc == 0.5.0
+ipywidgets == 7.5.1
+matplotlib == 3.2.2
